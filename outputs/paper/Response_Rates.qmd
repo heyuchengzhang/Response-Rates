@@ -3,7 +3,7 @@ title: "Survey Research's Falling Response Rates: Consequences and Approaches fo
 author: "Heyucheng Zhang"
 thanks: "Code and data are available at: https://github.com/heyuchengzhang/Response-Rates"
 format: pdf
-date: "5 Febuary 2024"
+date: "5 February 2024"
 date-format: "D MMMM YYYY"
 toc: true
 number-sections: true
